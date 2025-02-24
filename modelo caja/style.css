@@ -1,11 +1,10 @@
 .box {
-  background: peru;
+  background: rosybrown;
   height: 100px;
   width: 200px;
-  padding: 10 px;
-  border: 5 px solid black;
-  margin: 20 px;
-  display: inline;
-  /*display: inline-block;
-  display: block;*/
+  padding: 10px;
+  border: 2px solid black;
+  margin: 20px;
+  display: inline-block;
+  font-size: 30px;
 }
